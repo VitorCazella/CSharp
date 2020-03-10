@@ -1,0 +1,11 @@
+\\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\bin\Debug\netcoreapp2.1\CSharp.deps.json
+\\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\bin\Debug\netcoreapp2.1\CSharp.runtimeconfig.json
+\\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\bin\Debug\netcoreapp2.1\CSharp.runtimeconfig.dev.json
+\\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\bin\Debug\netcoreapp2.1\CSharp.dll
+\\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\bin\Debug\netcoreapp2.1\CSharp.pdb
+\\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.csprojAssemblyReference.cache
+\\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.csproj.CoreCompileInputs.cache
+\\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.AssemblyInfoInputs.cache
+\\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.AssemblyInfo.cs
+\\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.dll
+\\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.pdb
