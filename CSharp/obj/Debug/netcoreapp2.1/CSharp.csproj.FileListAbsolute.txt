@@ -9,3 +9,13 @@
 \\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.AssemblyInfo.cs
 \\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.dll
 \\learn.cpp.ac.nz\User Data\Students\91050051\Desktop\Whitecliffe\Programming Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.pdb
+C:\Users\vitor\Projects\Programming-Principles\CSharp\bin\Debug\netcoreapp2.1\CSharp.deps.json
+C:\Users\vitor\Projects\Programming-Principles\CSharp\bin\Debug\netcoreapp2.1\CSharp.runtimeconfig.json
+C:\Users\vitor\Projects\Programming-Principles\CSharp\bin\Debug\netcoreapp2.1\CSharp.runtimeconfig.dev.json
+C:\Users\vitor\Projects\Programming-Principles\CSharp\bin\Debug\netcoreapp2.1\CSharp.dll
+C:\Users\vitor\Projects\Programming-Principles\CSharp\bin\Debug\netcoreapp2.1\CSharp.pdb
+C:\Users\vitor\Projects\Programming-Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.csprojAssemblyReference.cache
+C:\Users\vitor\Projects\Programming-Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.AssemblyInfoInputs.cache
+C:\Users\vitor\Projects\Programming-Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.AssemblyInfo.cs
+C:\Users\vitor\Projects\Programming-Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.dll
+C:\Users\vitor\Projects\Programming-Principles\CSharp\obj\Debug\netcoreapp2.1\CSharp.pdb
