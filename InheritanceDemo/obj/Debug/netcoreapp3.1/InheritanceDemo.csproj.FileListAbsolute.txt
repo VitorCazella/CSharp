@@ -1,0 +1,23 @@
+/Users/mac/Desktop/class for whitecliffe/IT5014/InheritanceDemo/bin/Debug/netcoreapp3.1/InheritanceDemo.deps.json
+/Users/mac/Desktop/class for whitecliffe/IT5014/InheritanceDemo/bin/Debug/netcoreapp3.1/InheritanceDemo.runtimeconfig.json
+/Users/mac/Desktop/class for whitecliffe/IT5014/InheritanceDemo/bin/Debug/netcoreapp3.1/InheritanceDemo.runtimeconfig.dev.json
+/Users/mac/Desktop/class for whitecliffe/IT5014/InheritanceDemo/bin/Debug/netcoreapp3.1/InheritanceDemo.dll
+/Users/mac/Desktop/class for whitecliffe/IT5014/InheritanceDemo/bin/Debug/netcoreapp3.1/InheritanceDemo.pdb
+/Users/mac/Desktop/class for whitecliffe/IT5014/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.csprojAssemblyReference.cache
+/Users/mac/Desktop/class for whitecliffe/IT5014/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/class for whitecliffe/IT5014/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.AssemblyInfoInputs.cache
+/Users/mac/Desktop/class for whitecliffe/IT5014/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.AssemblyInfo.cs
+/Users/mac/Desktop/class for whitecliffe/IT5014/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.dll
+/Users/mac/Desktop/class for whitecliffe/IT5014/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.pdb
+/Users/mac/Desktop/class for whitecliffe/IT5014/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.genruntimeconfig.cache
+C:\Users\vitor\Projects\Programming-Principles\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.exe
+C:\Users\vitor\Projects\Programming-Principles\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.deps.json
+C:\Users\vitor\Projects\Programming-Principles\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.runtimeconfig.json
+C:\Users\vitor\Projects\Programming-Principles\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.runtimeconfig.dev.json
+C:\Users\vitor\Projects\Programming-Principles\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.dll
+C:\Users\vitor\Projects\Programming-Principles\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.pdb
+C:\Users\vitor\Projects\Programming-Principles\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.csprojAssemblyReference.cache
+C:\Users\vitor\Projects\Programming-Principles\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\vitor\Projects\Programming-Principles\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.AssemblyInfo.cs
+C:\Users\vitor\Projects\Programming-Principles\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.dll
+C:\Users\vitor\Projects\Programming-Principles\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.pdb

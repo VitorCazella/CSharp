@@ -5,27 +5,14 @@
    "version": "0.2.0",
    "configurations": [
         {
-            "name": ".NET Core Launch (CSharp)",
+            "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/CSharp/bin/Debug/netcoreapp2.1/CSharp.dll",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/AbstractDemo.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/CSharp",
-            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "internalConsole",
-            "stopAtEntry": false
-        },
-        {
-            "name": ".NET Core Launch (InheritanceDemo)",
-            "type": "coreclr",
-            "request": "launch",
-            "preLaunchTask": "build",
-            // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/InheritanceDemo/bin/Debug/netcoreapp3.1/InheritanceDemo.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}/InheritanceDemo",
+            "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

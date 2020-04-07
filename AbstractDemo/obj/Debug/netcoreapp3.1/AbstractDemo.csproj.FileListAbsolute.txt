@@ -1,0 +1,12 @@
+/Users/mac/Desktop/class for whitecliffe/IT5014/AbstractDemo/bin/Debug/netcoreapp3.1/AbstractDemo.deps.json
+/Users/mac/Desktop/class for whitecliffe/IT5014/AbstractDemo/bin/Debug/netcoreapp3.1/AbstractDemo.runtimeconfig.json
+/Users/mac/Desktop/class for whitecliffe/IT5014/AbstractDemo/bin/Debug/netcoreapp3.1/AbstractDemo.runtimeconfig.dev.json
+/Users/mac/Desktop/class for whitecliffe/IT5014/AbstractDemo/bin/Debug/netcoreapp3.1/AbstractDemo.dll
+/Users/mac/Desktop/class for whitecliffe/IT5014/AbstractDemo/bin/Debug/netcoreapp3.1/AbstractDemo.pdb
+/Users/mac/Desktop/class for whitecliffe/IT5014/AbstractDemo/obj/Debug/netcoreapp3.1/AbstractDemo.csprojAssemblyReference.cache
+/Users/mac/Desktop/class for whitecliffe/IT5014/AbstractDemo/obj/Debug/netcoreapp3.1/AbstractDemo.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/class for whitecliffe/IT5014/AbstractDemo/obj/Debug/netcoreapp3.1/AbstractDemo.AssemblyInfoInputs.cache
+/Users/mac/Desktop/class for whitecliffe/IT5014/AbstractDemo/obj/Debug/netcoreapp3.1/AbstractDemo.AssemblyInfo.cs
+/Users/mac/Desktop/class for whitecliffe/IT5014/AbstractDemo/obj/Debug/netcoreapp3.1/AbstractDemo.dll
+/Users/mac/Desktop/class for whitecliffe/IT5014/AbstractDemo/obj/Debug/netcoreapp3.1/AbstractDemo.pdb
+/Users/mac/Desktop/class for whitecliffe/IT5014/AbstractDemo/obj/Debug/netcoreapp3.1/AbstractDemo.genruntimeconfig.cache

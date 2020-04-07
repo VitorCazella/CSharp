@@ -6,8 +6,7 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            var person = new MyClass();
-            Console.WriteLine($"Hello World! {person.ReturnName()}");
+            
         }
     }
 }
