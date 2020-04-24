@@ -29,6 +29,5 @@ namespace InheritanceDemo
             // of WorkItem.
             this.originalItemID = originalID;
         }
-
     }
 }
