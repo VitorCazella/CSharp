@@ -10,10 +10,27 @@ namespace CSharp
         static void Main(string[] args)
         {
             List<Ticket> TicketList = new List<Ticket>();
+            TicketStats stats = new TicketStats();
 
             TicketList.Add(new InternalTicket("VITORC", "Vitor", "vitor.cazella", "blah blah blah"));
+            stats.NewTicket();
+            
             TicketList.Add(new ExternalTicket("jorge", "vitor.cazella", "another blah blah"));
+            stats.NewTicket();
+            
+            //before
+            stats.ShowStats();
 
+            Console.WriteLine("\nPrinting Tickets:\n");
+            foreach(var ticket in TicketList){
+                ticket.ShowTicket();
+            }
+
+
+            //after
+            stats.ShowStats();
+
+            Console.WriteLine("\nPrinting Tickets:\n");
             foreach(var ticket in TicketList){
                 ticket.ShowTicket();
             }

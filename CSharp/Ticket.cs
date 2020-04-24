@@ -8,7 +8,7 @@ namespace CSharp
         protected string name;
         protected string email;
         protected string description;
-        protected string response;
+        protected string response = "Not yet provided";
         protected string ticket_status = "Open";
 
         static Ticket(){

@@ -16,16 +16,18 @@ namespace CSharp
       }
 
       public override void ShowTicket(){
-        Console.WriteLine($"Show external ticket: {internalID}, {staffID}, {name}, {email}, {description}, {response}, {ticket_status}");
+        Console.WriteLine($"Ticket Number: {internalID} \nTicket Creator: {name} \nStaff ID: {staffID} \nEmail Address: {email} \nDescription: {description} \nResponse: {response} \nTicket Status: {ticket_status}\n");
       }
 
-      public Boolean PasswordChange(string description){
-        Boolean Contain = false; 
+      public void PasswordChange(string description){
         if(description.Contains("Password Change")){
+          TicketStats stats = new TicketStats();
+          PasswordGenerator pw = new PasswordGenerator();
+          
+          pw.NewPassword(staffID, internalID);
           ticket_status = "Closed";
-          Contain = true;
+          stats.CloseTicket();
         }
-        return Contain;
       }
     }
 }
