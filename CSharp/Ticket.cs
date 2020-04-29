@@ -19,9 +19,7 @@ namespace CSharp
             return ++currentID;
         }
 
-        public void ResponseToTicket(){
-            Console.WriteLine();
-        }
+        public abstract void ResponseToTicket(int numTicket, string response);
 
         public abstract void ShowTicket();
     }
