@@ -42,18 +42,6 @@ namespace CSharp
                 ticket.ResponseToTicket(2006, "The issue has been resolved. Please check.");
                 ticket.ShowTicket();
             }
-
-            /*
-            string author = "ABKiwi";
-            // Convert a C# string to a byte array
-            byte[] bytes = Encoding.ASCII.GetBytes(author);
-            foreach(byte b in bytes) {
-                Console.WriteLine(b);
-            }  
-            // Convert a byte array to a C# string
-            string str = Encoding.ASCII.GetString(bytes);
-            Console.WriteLine(str);
-            */
         }
     }
 }
